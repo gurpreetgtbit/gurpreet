@@ -1,0 +1,8 @@
+Player1
+move left:a
+move right:d
+move sqord :q,r
+Player2
+move left:j
+move right:l
+mive sqord :u,p
