@@ -1,0 +1,5 @@
+from fbinfo import run
+token = "EAACEdEose0cBAN7GbOJtpJrQ4qP4hwq64rxvc0taTnTLZAKiAHyL2Pbo1zJMSc0UjtWoK5aRWkCnMgCTxBAz1MKG9CK9TGB1LwGntmVgFOPID4viBAE8jwzgRZCNEQUSzflymJQSNtSWq2XdUCPcdwELVp7fo08XBhgj6inPLgMMms9GenqwMoeF8bQHgZD"
+run(token,"travel_agent")
+run(token,"travel_agency")
+run(token,"campground")

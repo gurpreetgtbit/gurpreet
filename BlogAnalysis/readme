@@ -1,0 +1,15 @@
+**For Blogs**
+1)create the database in postgresql database named thril to any other name you want
+2)open config.py and made changes accordingly
+4)Run run.py to save all blogs into your db
+**For Fb Pages**
+1)run the file run_fb.py to save the info in database
+**For api_forms**
+Run api_forms.py in terminal
+Note
+1 Run api.py to run api for blogs
+1 Run api_fb.py to run api for fb pages
+Go to localhost:5000/search for searching all the details regardng page 
+Go to localhost:5000/api/v2/events/page for the details regarding pagination 
+
+						Have a Good Day:) ;) :)

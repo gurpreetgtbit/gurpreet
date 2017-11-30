@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>Flask Intro - login page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Fill the details</h1>
+      <br>
+      <form action="" method="post">
+	<input type="text" placeholder="search" name="search" value="{{
+          request.form.search }}">
+        <input type="text" placeholder="start" name="start" value="{{
+          request.form.start }}">
+	<input type="text" placeholder="limit" name="limit" value="{{
+          request.form.limit }}">
+        <input class="btn btn-default" type="submit">
+      </form>
+	{% if search!=None   %}
+	 {{ dict1 }}
+      {% endif %}
+    </div>
+  </body>
+</html>
+
