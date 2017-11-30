@@ -1,0 +1,8 @@
+Player1
+move left:a
+move right:d
+move sword :q,r
+Player2
+move left:j
+move right:l
+mive sword :u,p
