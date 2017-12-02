@@ -1,6 +1,0 @@
-Make changes in local directory
-Select uncommited changes in Source tree
-See below stage option would be given 
-Stage the file aand then commit that file
-and finally push that file to
-see the reuired change
